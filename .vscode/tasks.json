@@ -1,0 +1,27 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Build Sudoku Project",
+      "type": "shell",
+      "command": "g++",
+      "args": [
+        "-std=c++17",
+        "-Wall",
+        "-Wextra",
+        "-O2",
+        "-o",
+        "SudokuProject.exe",
+        "main.cpp",
+        "SudokuBoard.cpp",
+        "SudokuSolver.cpp",
+        "SudokuGame.cpp",
+        "SudokuGenerator.cpp",
+        "SudokuAdvancedChecks.cpp"
+      ],
+      "group": "build",
+      "isBackground": false,
+      "problemMatcher": ["$gcc"]
+    }
+  ]
+}

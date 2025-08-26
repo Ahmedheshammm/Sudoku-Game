@@ -1,0 +1,3 @@
+C:/SWD/Soduku Game Project/project test/build/CMakeFiles/SudokuProject.dir
+C:/SWD/Soduku Game Project/project test/build/CMakeFiles/edit_cache.dir
+C:/SWD/Soduku Game Project/project test/build/CMakeFiles/rebuild_cache.dir
